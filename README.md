@@ -1,1 +1,0 @@
-# Parkinson-disease-prediction
